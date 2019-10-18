@@ -36,8 +36,8 @@
 
 /* Section - Parallax */
 /**************************/
-#parallax-world-of-ugg .parallax-one {padding-top: 200px; padding-bottom: 200px; overflow: hidden; position: relative; width: 100vw; background-image: url(https://www.miltenyibiotec.com/_Resources/Static/Packages/Wysiwyg.Miltenyi.SparseTemplates/Specials/MACSQuant_Tyto_289_RGB_001_1920.jpg?bust=3262a784); background-attachment: fixed; background-size: cover; -moz-background-size: cover; -webkit-background-size: cover; background-repeat: no-repeat; background-position: top center;}
-#parallax-world-of-ugg .parallax-two {padding-top: 200px; padding-bottom: 200px; overflow: hidden; position: relative; width: 100vw; background-image: url(https://www.miltenyibiotec.com/_Resources/Persistent/d1758f95dfedd6463439568e1e315c2e627be661/Tyto_Detail_Studio_Shooting_1613_RGB_001_2500x1250px-1920x960.jpg); background-attachment: fixed; background-size: cover; -moz-background-size: cover; -webkit-background-size: cover; background-repeat: no-repeat; background-position: center center;}
+#parallax-world-of-ugg .parallax-one {padding-top: 200px; padding-bottom: 200px; overflow: hidden; position: relative; width: 100vw; background-image: url(https://www.miltenyibiotec.com/_Resources/Static/Packages/Wysiwyg.Miltenyi.SparseTemplates/Specials/MACSQuant_Tyto_289_RGB_001_1920.jpg?bust=3262a784); background-attachment: fixed; background-size: auto; -moz-background-size: auto; -webkit-background-size: auto; background-repeat: no-repeat; background-position: top center;}
+#parallax-world-of-ugg .parallax-two {padding-top: 200px; padding-bottom: 200px; overflow: hidden; position: relative; width: 100vw; background-image: url(https://www.miltenyibiotec.com/_Resources/Persistent/d1758f95dfedd6463439568e1e315c2e627be661/Tyto_Detail_Studio_Shooting_1613_RGB_001_2500x1250px-1920x960.jpg); background-attachment: fixed; background-size: auto; -moz-background-size: auto; -webkit-background-size: auto; background-repeat: no-repeat; background-position: center center;}
 #parallax-world-of-ugg .parallax-three {padding-top: 200px; padding-bottom: 200px; overflow: hidden; position: relative; width: 100%; background-image: url(https://www.miltenyibiotec.com/_Resources/Static/Packages/Wysiwyg.Miltenyi.SparseTemplates/Specials/MACSQuant_Tyto_Lab_Image_Shooting_3804_RGB_001_2x1.jpg?bust=f3c31fd1); background-attachment: fixed; background-size: cover; -moz-background-size: cover; -webkit-background-size: cover; background-repeat: no-repeat; background-position: center center;}
 
 /* Extras */
@@ -46,7 +46,7 @@
 
 /* Media Queries */
 /**************************/
-@media screen and (max-width: 959px) and (min-width: 768px) {
+@media screen and (min-width: 768px) {
   #parallax-world-of-ugg .block {padding: 40px; width:620px;}
 }
 @media screen and (max-width: 767px) {
